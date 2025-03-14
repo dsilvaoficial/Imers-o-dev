@@ -1,7 +1,3 @@
-Aqui está o README atualizado com a informação de que o site está disponível na **Vercel** e foi instalado via **GitHub**:  
-
----
-
 # 🚀 NewTechAI  
 
 NewTechAI é um site de notícias sobre tecnologia, desenvolvido com **HTML, CSS e JavaScript** durante a **Imersão Dev com Google Gemini da Alura**. O projeto apresenta um design moderno, animações dinâmicas e um sistema de busca interativo.  
@@ -9,7 +5,7 @@ NewTechAI é um site de notícias sobre tecnologia, desenvolvido com **HTML, CSS
 ## 🌍 Acesse o Projeto Online  
 
 O site está disponível na **Vercel** e pode ser acessado através do link:  
-🔗 [NewTechAI na Vercel](#) *(substitua pelo link real do seu projeto na Vercel)*  
+🔗 [(https://imersaodev-chi.vercel.app/]
 
 ## 🖥️ Tecnologias Utilizadas  
 
@@ -65,7 +61,3 @@ Este projeto foi criado como parte da **Imersão Dev com Google Gemini da Alura*
 ## 📜 Licença  
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo! 🚀  
-
----
-
-Se precisar de mais ajustes ou quiser incluir o link real da Vercel, me avise!
